@@ -1,7 +1,18 @@
-# itf_sp2_2021_practicals
-uni work for git
+# itf_sp2_2021_practical 1
 
-Anton Sabou
+
+- Anton Sabou
+- id: 110317927
+- sabay011@mymail.unisa.edu.au
+- INFT 1016
+
+
+
+
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg]]
+
+ https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg
+
 
 # IT fundementals
 
